@@ -1,4 +1,4 @@
-# Roller Coaster Simulation
+## TNM085 - Roller Coaster Simulation
 In the folder - "RollerCosterSim - Program" the executable file lays. 
 It should be run in windowed mode, but if run in fullscreen, ALT+F4 needs to be used in order to quit the program.
 
